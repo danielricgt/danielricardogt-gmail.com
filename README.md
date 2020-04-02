@@ -1,6 +1,6 @@
-#Infura Dapp wht React &amp; NetworkJS
+# Infura Dapp wht React &amp; NetworkJS
 
-###Pre requisites
+### Pre requisites
 ```
 sudo apt-get install build-essential
 
