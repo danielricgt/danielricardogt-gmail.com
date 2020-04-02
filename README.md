@@ -1,4 +1,4 @@
-# Infura Dapp wht React &amp; NetworkJS
+# Infura Dapp with React &amp; NetworkJS
 
 ### Pre requisites
 ```
